@@ -5,7 +5,7 @@
 - 6 modèles comparés — 4 dépassent le seuil cible de 85%
 Ce projet est un script Python d'apprentissage automatique conçu pour détecter et évaluer la toxicité dans des commentaires (NLP). Il entraîne, compare, et combine plusieurs modèles d'intelligence artificielle pour identifier et classifier le degré et les raisons de la toxicité dans un texte.
 
-## Fonctionnalités 🚀
+## 🚀 Fonctionnalités 
 
 - **Nettoyage de texte avancé (NLP)** : Suppression des abréviations, uniformisation du texte et retrait des caractères spéciaux.
 - **Vectorisation TF-IDF** : Analyse des mots fréquents.
