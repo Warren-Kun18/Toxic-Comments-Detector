@@ -1,5 +1,8 @@
 # Toxic Comment Detection
 
+## 🎯 Résultats
+- **88.67% de précision** avec XGBoost sur 160 554 commentaires
+- 6 modèles comparés — 4 dépassent le seuil cible de 85%
 Ce projet est un script Python d'apprentissage automatique conçu pour détecter et évaluer la toxicité dans des commentaires (NLP). Il entraîne, compare, et combine plusieurs modèles d'intelligence artificielle pour identifier et classifier le degré et les raisons de la toxicité dans un texte.
 
 ## Fonctionnalités 🚀
